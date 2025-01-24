@@ -9,7 +9,7 @@ from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 import pickle
 
 ## tokenization
-nltk.download('punkt')
+nltk.download('punkt_tab')
 
 ##stopwords
 nltk.download('stopwords')
